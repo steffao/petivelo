@@ -1,0 +1,10 @@
+{
+  "development": {
+    "storage":"petivelodev.db",
+    "dialect": "sqlite"
+  },
+  "production": {
+    "storage":"petivelo.db",
+    "dialect": "sqlite"
+  }
+}
